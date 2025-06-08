@@ -48,9 +48,6 @@ To run the project:
 
 1. Make sure you have an ORATS API token and replace `'mytoken'` in the code.
 2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. Run the notebook or Python script.
 
 ## Requirements
